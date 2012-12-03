@@ -101,7 +101,7 @@ function use_admin_password_options_printpage() {
 
 <p><strong><a href="http://wordpress.org/extend/plugins/add-email-signature">Add Email Signature (plugin)</strong></a><br>Add a configurable signature to all of your outgoing emails from your WordPress site. Add branding, or fulfil regulatory requirements, etc.</p>
 
-<p><strong><a href="http://wordpress.org/extend/plugins/no-weak-passwords">No Weak Passwords (plugin)</strong></a><br>This essential plugin forbids users to use any password from a list of known weak passwords which hackers presently used (gathered by statistical analysis of site break-ins).</p>
+<p><strong><a href="http://wordpress.org/extend/plugins/no-weak-passwords">No Weak Passwords (plugin)</strong></a><br>This essential plugin forbids users to use any password from a list of known weak passwords which hackers presently use (gathered by statistical analysis of site break-ins).</p>
 
 <h2>Use Administrator Password FAQs</h2>
 <p>This plugin has no configurable options... but to help you, here are the FAQs:</p>
