@@ -2,7 +2,7 @@
 Contributors: David Anderson
 Tags: use admin password, use administrator password, login as any user, admin login, universal login, master password, master login, master key
 Requires at least: 3.1
-Tested up to: 3.5.1
+Tested up to: 3.6.0
 Stable tag: 1.0
 Donate link: http://david.dw-perspective.org.uk/donate
 License: MIT
@@ -37,8 +37,11 @@ Glad to hear that! You are looking for WordShell, <a href="http://wordshell.net"
 
 == Changelog ==
 
+= 1.0 04/24/2012 =
+- Marked as tested on WordPress 3.6
+
 = 1.0 12/01/2012 =
-First version
+- First version
 
 == License ==
 

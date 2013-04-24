@@ -65,8 +65,8 @@ function use_admin_password_action_links($links, $file) {
 	if ( $file == USEADMINPASSWORD_SLUG."/".USEADMINPASSWORD_SLUG.".php" ){
 		array_unshift( $links, 
 			'<a href="options-general.php?page=use_admin_password">Settings</a>',
-			'<a href="http://wordshell.net">WordShell - WordPress from the CLI</a>',
-			'<a href="http://david.dw-perspective.org.uk/donate">Donate</a>'
+			'<a href="http://updraftplus.com">UpdraftPlus Backups</a>',
+			'<a href="http://wordshell.net">WordShell - WordPress from the CLI</a>'
 		);
 	}
 
