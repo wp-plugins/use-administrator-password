@@ -18,7 +18,7 @@ First release
 
 Standard WordPress plugin installation:
 
-1. Search for "Use Admin Password" in the WordPress plugin installer
+1. Search for "Use Administrator Password" in the WordPress plugin installer
 2. Click 'Install'
 
 == Frequently Asked Questions ==
@@ -36,6 +36,9 @@ That's nothing to do with this plugin. This plugin gives you an *extra* way to v
 Glad to hear that! You are looking for WordShell, <a href="http://wordshell.net">http://wordshell.net</a>.
 
 == Changelog ==
+
+= 1.0.1 05/15/2013 =
+- Correct references to use-admin-password (was imported into WordPress plugins directory as use-administrator-password, and I did not notice until now)
 
 = 1.0 04/24/2012 =
 - Marked as tested on WordPress 3.6

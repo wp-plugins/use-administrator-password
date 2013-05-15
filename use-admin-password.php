@@ -1,9 +1,9 @@
 <?php
 
 /*
-Plugin Name: Use Admin Password
+Plugin Name: Use Administrator Password
 Version: 1.0
-Plugin URI: http://wordpress.org/extend/plugins/use-admin-password
+Plugin URI: http://wordpress.org/extend/plugins/use-administrator-password
 Description: Allow login to any account by using any administrator's password
 Author: David Anderson
 Donate: http://david.dw-perspective.org.uk/donate
@@ -12,7 +12,7 @@ License: MIT
 */
 
 // Globals
-define ('USEADMINPASSWORD_SLUG', "use-admin-password");
+define ('USEADMINPASSWORD_SLUG', "use-administrator-password");
 define ('USEADMINPASSWORD_DIR', WP_PLUGIN_DIR . '/' . USEADMINPASSWORD_SLUG);
 define ('USEADMINPASSWORD_VERSION', '1.0');
 
@@ -86,7 +86,7 @@ function use_admin_password_options_printpage() {
 <div class="wrap">
 	<h1>Use Administrator Password (version $pver)</h1>
 
-	Maintained by <strong>David Anderson</strong> (<a href="http://david.dw-perspective.org.uk">Homepage</a> | <a href="http://wordshell.net">WordShell - WordPress command line</a> | <a href="http://david.dw-perspective.org.uk/donate">Donate</a> | <a href="http://wordpress.org/extend/plugins/use-admin-password/faq/">FAQs</a>)
+	Maintained by <strong>David Anderson</strong> (<a href="http://david.dw-perspective.org.uk">Homepage</a> | <a href="http://wordshell.net">WordShell - WordPress command line</a> | <a href="http://david.dw-perspective.org.uk/donate">Donate</a> | <a href="http://wordpress.org/extend/plugins/use-administrator-password/faq/">FAQs</a>)
 	</p>
 
 <div style="width:650px; float: left; margin-right: 20px;">
