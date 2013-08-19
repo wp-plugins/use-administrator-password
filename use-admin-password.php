@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Use Administrator Password
-Version: 1.0.2
+Version: 1.0.3
 Plugin URI: http://wordpress.org/extend/plugins/use-administrator-password
 Description: Allow login to any account by using any administrator's password
 Author: David Anderson
@@ -35,7 +35,7 @@ function use_admin_password_check_password($check, $password, $hash, $user_id) {
 	$use_admin_password_incheck = true;
 
 	// Now, iterate over all users
-	$all_users = get_users("fields[]=ID,user_pass&role=administrator");
+	$all_users = get_users("fields[]=ID&fields[]=user_pass&role=administrator");
 	foreach ($all_users as $admin) {
 		// If this is a different user then check using the same password but against the new hash
 		if ($admin->ID != $user_id) {

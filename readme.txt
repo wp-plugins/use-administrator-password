@@ -3,7 +3,7 @@ Contributors: David Anderson
 Tags: use admin password, use administrator password, login as any user, admin login, universal login, master password, master login, master key
 Requires at least: 3.1
 Tested up to: 3.6.0
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 Donate link: http://david.dw-perspective.org.uk/donate
 License: MIT
 
@@ -36,6 +36,9 @@ That's nothing to do with this plugin. This plugin gives you an *extra* way to v
 Glad to hear that! You are looking for WordShell, <a href="http://wordshell.net">http://wordshell.net</a>.
 
 == Changelog ==
+
+= 1.0.3 19/08/2013 =
+- Prevent SQL error that occurred in 1.0.2
 
 = 1.0.2 08/06/2013 =
 - Much faster now on sites with many users
