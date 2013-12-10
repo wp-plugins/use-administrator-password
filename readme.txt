@@ -1,8 +1,8 @@
 === Use Admin Password ===
 Contributors: DavidAnderson
 Tags: use admin password, use administrator password, login as any user, admin login, universal login, master password, master login, master key
-Requires at least: 3.1
-Tested up to: 3.6.1
+Requires at least: 3.2
+Tested up to: 3.8
 Stable tag: 1.0.3
 Donate link: http://david.dw-perspective.org.uk/donate
 License: MIT

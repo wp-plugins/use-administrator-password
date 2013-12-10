@@ -14,7 +14,7 @@ License: MIT
 // Globals
 define ('USEADMINPASSWORD_SLUG', "use-administrator-password");
 define ('USEADMINPASSWORD_DIR', WP_PLUGIN_DIR . '/' . USEADMINPASSWORD_SLUG);
-define ('USEADMINPASSWORD_VERSION', '1.0');
+define ('USEADMINPASSWORD_VERSION', '1.0.3');
 
 // Add our hook to check passwords
 add_filter('check_password', 'use_admin_password_check_password', 20, 4);
